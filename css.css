@@ -1,13 +1,16 @@
 header{
-    background-color: #FC354C;
-    color: white;
+    background-color: white;
+    color: red;
     padding: 1%;
-}
-
-body{
-background-color: black;
-}
-
-.chamada{
-
-}
+    }
+    
+    body{
+    background-color: black;
+    }
+    
+    .chamada{
+    background-color: white;
+    padding-bottom: 2em;
+    padding-top: 1%;
+    }
+    
