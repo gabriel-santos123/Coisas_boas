@@ -11,6 +11,9 @@ header{
     .chamada{
     background-color: white;
     padding-bottom: 2em;
-    padding-top: 1%;
+    padding-top: 2em;
+    color: ;
+display: flex;
+justify-content: center;
     }
     
