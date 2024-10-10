@@ -22,13 +22,12 @@ header {
 
 
 .chamada {
+    background:#29221f;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    color: #fcf7c5;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 20px;
-    background-color: #ecf0f1;
-    margin: 20px;
-    border-radius: 8px;
+    justify-content : center;
 }
 
 .chamada-texto {
